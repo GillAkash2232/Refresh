@@ -1,9 +1,0 @@
-.carousel-item {
-  height: 550px; /* Set custom height */
-}
-
-.carousel-item img {
-  object-fit: cover; /* Ensures image fills the container */
-  height: 100%;
-  width: 100%;
-}
